@@ -1,7 +1,7 @@
 {
   "name": "CypressAutomation",
   "version": "1.0.0",
-  "description": "Automation of Kiosk application Tests - Web & API",
+  "description": "Automation of Kiosk application Tests - Web & ",
   "main": "index.js",
   "scripts": {
     "cy:run": "npx cypress run",
